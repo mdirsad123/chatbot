@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/chatbot.py"
+status = 200
